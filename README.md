@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @federico-cacciotti
-- 👀 I’m interested in Astronomy and Astrophysics
-- 🌱 I’m currently a PhD student
+PhD in Astronomy and Astrophysics @Sapienza University
